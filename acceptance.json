@@ -1,0 +1,9 @@
+{
+  "jsp_id": "JSP-000093",
+  "catalog_url": "https://github.com/TheJustinSunPrize/awards/blob/main/problems/README.md",
+  "original_question_en": "TODO from catalog",
+  "required_theorems": [
+    "jsp_000093_main"
+  ],
+  "notes": "Auto-scaffolded; refine ACCEPTANCE from official catalog before prize_ready."
+}

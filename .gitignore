@@ -1,0 +1,4 @@
+.lake/
+*.olean
+lake-packages/
+.DS_Store
